@@ -1,4 +1,6 @@
 # Sukuna Recon: Malevolent Shrine Enumeration
+<img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/60af0070-21c3-4d7e-b42f-afae5a1ec85b" />
+
 
 > "Know your place. A script this grand deserves absolute subservience."
 
